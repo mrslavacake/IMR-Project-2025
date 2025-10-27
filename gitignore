@@ -1,0 +1,51 @@
+# Proiecte Unity
+
+# Fișiere și foldere ignorate în mod obișnuit
+
+# Fișiere de configurare locale, care sunt specifice mașinii tale
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+
+# Fișiere generare de IDE-uri (Visual Studio, Rider, etc.)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.natvis
+*.pidb
+*.nitf
+*.pidb.meta
+
+# Fișiere macOS
+.DS_Store
+.DS_Store.meta
+
+# Fișiere Windows
+Thumbs.db
+Thumbs.db.meta
+
+# Fișiere de backup, temporare și log-uri
+*.bak
+*.orig
+*.log
+*.zip
+
+# Folderele de cache ale pachetelor, care sunt mari
+# Acesta include și fișierul menționat în eroarea ta: libburst-11vm-19.dylib
+/Assets/AssetStoreTools/
+/Packages/
+/PackageCache/
+
+# Fișierele de metadate de la Assets/
+# În general, nu le ignorăm, dar dacă le generezi automat sau ai probleme
+# cu ele, poți folosi următoarea linie, dar ai grijă la Assets!
+# *.meta
+
+# Cache pentru Code Coverage (Unit Testing)
+/CodeCoverage/
