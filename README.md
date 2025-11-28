@@ -6,9 +6,7 @@ https://docs.google.com/document/d/18mkl3Y3NmIzkeMq7uqK4UrSWDMSFOebWgi4ZVeP8AvM/
 Link to mode details about the main modules:
 https://docs.google.com/document/d/1AzZmOjim9wghXR9magDH8NSHaltzgV3cRhk2BHXOPAA/edit?usp=sharing
 
-First video demo is named 'demo1.mp4'
-
-Second video demo is named 'demo2.mp4'
+Video demos can be found in 'video demos' directory
 
 Update 1 includes:
 - laboratory mesh (including windows, desks, shelves)
@@ -28,9 +26,17 @@ Update 2 includes:
 - integration with VR equipment (Meta Quest 3)
 
 
+Update 3 includes:
+- more organ meshes (liver, kidneys, bladder)
+- more accurate bezier curves (vena cava, hepatogastric ligament, hepatoduodenal ligament, pyloric sphincter, ileocecal valve)
+- retopology for current meshes
+- improved frog model for better accuracy
+- implemented script for cutting with the scalpel (as seen in one of the demo3 videos)
+- NOT YET FUNCTIONAL forceps grab script
+
 Next update will (hopefully) include:
-- retopology for current meshes to increase performance
-- meshes for all organs
-- better textures for frog
-- proper implementation for tool interactions
+- retopology for current meshes to increase performance (again)
+- actual textures for all organs
 - mesh for 'What's this?'-inator
+- proper implementation for forceps and 'What's this?'-inator
+- more clutter and details in laboratory
