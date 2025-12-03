@@ -1,10 +1,14 @@
 # Credits and details
 
-Frog anatomy based on diagrams and instructions provided by prof. Huțanu Orest Liviu (Colegiul Național 'Mihai Eminescu', Botoșani)
+Frog anatomy based on diagrams and instructions provided by ***prof. Huțanu Orest Liviu (Colegiul Național 'Mihai Eminescu', Botoșani)***
 
 <img width="739" height="753" alt="image" src="https://github.com/user-attachments/assets/b91af844-8b12-4e1e-ae86-8765b99b9f12" />
 
-Equine cranium model based on over 160 images and scans of real ossature provided by prof. Papuc Ionel and prof. Gudea Alexandru (University of Agricultural Sciences and Veterinary Medicine, Cluj-Napoca)
+<br>
+<br>
+<br>
+
+Equine cranium model based on over 160 images and scans of real ossature provided by ***prof. Papuc Ionel and prof. Gudea Alexandru (University of Agricultural Sciences and Veterinary Medicine, Cluj-Napoca)***
 
 <img width="1226" height="549" alt="image" src="https://github.com/user-attachments/assets/89742fa3-fbb6-4a77-bbbc-8cfe17b1fc3a" />
 
