@@ -46,6 +46,7 @@ Update 5 includes:
 - notebook now has a turning page animation (as seen in demo5 video)
 - added script for instructions (previous scripts need to be updated for tasks to be registered as completed)
 - tasks can now be manually added in the unity interface
+  
   <img width="439" height="576" alt="image" src="https://github.com/user-attachments/assets/d0c9b790-c96f-4877-8f0b-20688dc41828" />
 
 
