@@ -3,6 +3,9 @@
 Frog anatomy based on diagrams and instructions provided by ***prof. Huțanu Orest Liviu (Colegiul Național 'Mihai Eminescu', Botoșani)***
 
 <img width="739" height="753" alt="image" src="https://github.com/user-attachments/assets/b91af844-8b12-4e1e-ae86-8765b99b9f12" />
+Old (Legacy) model
+<img width="911" height="902" alt="512910609-d854a7ec-5162-4409-94f1-da8fbfe3b762" src="https://github.com/user-attachments/assets/8264df26-2d00-4b67-bd9c-ffbec9041528" />
+
 
 <br>
 <br>
