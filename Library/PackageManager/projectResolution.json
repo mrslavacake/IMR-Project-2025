@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "D:/Unity Projects/Dissection Simulator/Packages",
+    "projectPath": "D:/Unity Projects/IMR-Project-2025/Packages",
     "unityVersion": "6000.0.60f1"
   },
   "inputs": [
-    "D:\\Unity Projects\\Dissection Simulator\\Packages\\manifest.json",
-    "D:\\Unity Projects\\Dissection Simulator\\Packages\\packages-lock.json",
+    "D:\\Unity Projects\\IMR-Project-2025\\Packages\\manifest.json",
+    "D:\\Unity Projects\\IMR-Project-2025\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.60f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.ai.navigation@2.0.9": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.ai.navigation@5218e4bf7edc",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.ai.navigation@5218e4bf7edc",
       "fingerprint": "5218e4bf7edc04fcad4ed3836c1c41aef334b996",
       "editorCompatibility": "6000.0.0a1",
       "version": "2.0.9",
@@ -22,7 +22,7 @@
     "com.unity.collab-proxy@2.9.3": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad",
       "fingerprint": "ab839cc7d2adf143e5378baf46edc31cbc5d84f7",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.9.3",
@@ -32,7 +32,7 @@
     "com.unity.ide.rider@3.0.38": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.ide.rider@1f60b3138684",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.ide.rider@1f60b3138684",
       "fingerprint": "1f60b3138684c97af67aa8d911b1632ba916d29d",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.0.38",
@@ -42,7 +42,7 @@
     "com.unity.ide.visualstudio@2.0.23": {
       "name": "com.unity.ide.visualstudio",
       "displayName": "Visual Studio Editor",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.ide.visualstudio@198cdf337d13",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.ide.visualstudio@198cdf337d13",
       "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.23",
@@ -52,7 +52,7 @@
     "com.unity.inputsystem@1.14.2": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5",
       "fingerprint": "be6c4fd0abf5b9b45f956b97294032a67f3c2f4d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.2",
@@ -62,7 +62,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -72,7 +72,7 @@
     "com.unity.render-pipelines.universal@17.0.4": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal Render Pipeline",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.render-pipelines.universal@ba24149c0920",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.render-pipelines.universal@ba24149c0920",
       "fingerprint": "ba24149c09208576a2229d5652d8dcb911efc34f",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.4",
@@ -82,7 +82,7 @@
     "com.unity.test-framework@1.6.0": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.test-framework@0baaad2f700c",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.test-framework@0baaad2f700c",
       "fingerprint": "0baaad2f700c671c6932db856fb80e6fa04b1bde",
       "editorCompatibility": "6000.0.44f1",
       "version": "1.6.0",
@@ -92,7 +92,7 @@
     "com.unity.timeline@1.8.9": {
       "name": "com.unity.timeline",
       "displayName": "Timeline",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.timeline@6b9e48457ddb",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.timeline@6b9e48457ddb",
       "fingerprint": "6b9e48457ddb4f64813d77fd77efc79a8f3102ae",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.8.9",
@@ -102,7 +102,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.ugui@27299721f2fd",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.ugui@27299721f2fd",
       "fingerprint": "27299721f2fd66fec4af5172e64a5266f3e23518",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -112,7 +112,7 @@
     "com.unity.visualscripting@1.9.7": {
       "name": "com.unity.visualscripting",
       "displayName": "Visual Scripting",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485",
       "fingerprint": "6279e2b7c4858e56cca7f367cd38c49ef66778c9",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.7",
@@ -122,7 +122,7 @@
     "com.unity.xr.hands@1.5.1": {
       "name": "com.unity.xr.hands",
       "displayName": "XR Hands",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.hands@860f3562c229",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.hands@860f3562c229",
       "fingerprint": "860f3562c229c2228869eacf1aacac0f8863bc80",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.5.1",
@@ -132,7 +132,7 @@
     "com.unity.xr.interaction.toolkit@3.0.8": {
       "name": "com.unity.xr.interaction.toolkit",
       "displayName": "XR Interaction Toolkit",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea",
       "fingerprint": "7e188ec401eaff99ad6b91aca36b2f657e06be7a",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.0.8",
@@ -142,17 +142,27 @@
     "com.unity.xr.management@4.5.3": {
       "name": "com.unity.xr.management",
       "displayName": "XR Plugin Management",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.management@574ebfb1e976",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.management@574ebfb1e976",
       "fingerprint": "574ebfb1e9766bb5f6bdb255c6abfb195b43f4cb",
       "editorCompatibility": "2022.3.0a1",
       "version": "4.5.3",
       "source": "registry",
       "testable": false
     },
+    "com.unity.xr.mock-hmd@1.4.0-preview.2": {
+      "name": "com.unity.xr.mock-hmd",
+      "displayName": "MockHMD XR Plugin",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.mock-hmd@bf4cb37c5d7a",
+      "fingerprint": "bf4cb37c5d7a4b8dbfc9c398afe865e8bff26226",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.4.0-preview.2",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.xr.oculus@4.5.2": {
       "name": "com.unity.xr.oculus",
       "displayName": "Oculus XR Plugin",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.oculus@44578ba4bd45",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.oculus@44578ba4bd45",
       "fingerprint": "44578ba4bd45cc491898e2b621210a6b690ef48c",
       "editorCompatibility": "2022.3.1f1",
       "version": "4.5.2",
@@ -162,7 +172,7 @@
     "com.unity.xr.openxr@1.15.1": {
       "name": "com.unity.xr.openxr",
       "displayName": "OpenXR Plugin",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.openxr@05fb1a7d75d1",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.openxr@05fb1a7d75d1",
       "fingerprint": "05fb1a7d75d118139c283c8d76b7f99a655364a8",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.15.1",
@@ -444,7 +454,7 @@
     "com.unity.xr.core-utils@2.5.3": {
       "name": "com.unity.xr.core-utils",
       "displayName": "XR Core Utilities",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6",
       "fingerprint": "f0450cbac8d66beb614cb1b4241eae977ee9990e",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.5.3",
@@ -454,7 +464,7 @@
     "com.unity.xr.legacyinputhelpers@2.1.12": {
       "name": "com.unity.xr.legacyinputhelpers",
       "displayName": "XR Legacy Input Helpers",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@b7579e86f3b4",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@b7579e86f3b4",
       "fingerprint": "b7579e86f3b456c909fda6b875fba7ab1eeb1322",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.12",
@@ -464,7 +474,7 @@
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
       "displayName": "Mathematics",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",
@@ -474,7 +484,7 @@
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
       "displayName": "Custom NUnit",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
       "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -484,7 +494,7 @@
     "com.unity.render-pipelines.core@17.0.4": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Scriptable Render Pipeline Core",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.render-pipelines.core@3d082aa477f5",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.render-pipelines.core@3d082aa477f5",
       "fingerprint": "3d082aa477f5be42d283576952cdf5ff8efd555f",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.4",
@@ -494,7 +504,7 @@
     "com.unity.shadergraph@17.0.4": {
       "name": "com.unity.shadergraph",
       "displayName": "Shader Graph",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.shadergraph@6f01d23bdcbb",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.shadergraph@6f01d23bdcbb",
       "fingerprint": "6f01d23bdcbb04797425d40a70ded2bc7e46b0b2",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.4",
@@ -504,7 +514,7 @@
     "com.unity.render-pipelines.universal-config@17.0.3": {
       "name": "com.unity.render-pipelines.universal-config",
       "displayName": "Universal Render Pipeline Config",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@dd206bf35d04",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@dd206bf35d04",
       "fingerprint": "dd206bf35d0451204981fdb31d4c6831a0ee2a7e",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -514,7 +524,7 @@
     "com.unity.searcher@4.9.3": {
       "name": "com.unity.searcher",
       "displayName": "Searcher",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
       "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
       "editorCompatibility": "2019.1.0a1",
       "version": "4.9.3",
@@ -524,7 +534,7 @@
     "com.unity.burst@1.8.25": {
       "name": "com.unity.burst",
       "displayName": "Burst",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.burst@1df634d836b8",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.burst@1df634d836b8",
       "fingerprint": "1df634d836b8106f13dc82401a91b336d615a874",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.8.25",
@@ -534,7 +544,7 @@
     "com.unity.collections@2.6.2": {
       "name": "com.unity.collections",
       "displayName": "Collections",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.collections@aea9d3bd5e19",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.collections@aea9d3bd5e19",
       "fingerprint": "aea9d3bd5e19f2a90fc3a39919974a5f3613a159",
       "editorCompatibility": "2022.3.20f1",
       "version": "2.6.2",
@@ -544,7 +554,7 @@
     "com.unity.rendering.light-transport@1.0.1": {
       "name": "com.unity.rendering.light-transport",
       "displayName": "Unity Light Transport Library",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.rendering.light-transport@9bd588f963c0",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.rendering.light-transport@9bd588f963c0",
       "fingerprint": "9bd588f963c0ca6105f0978f9cfc66444032a804",
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
@@ -554,7 +564,7 @@
     "com.unity.nuget.mono-cecil@1.11.5": {
       "name": "com.unity.nuget.mono-cecil",
       "displayName": "Mono Cecil",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d78732e851eb",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d78732e851eb",
       "fingerprint": "d78732e851eb42273c8e4d97993d3a94b207e570",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.5",
@@ -564,7 +574,7 @@
     "com.unity.test-framework.performance@3.2.0": {
       "name": "com.unity.test-framework.performance",
       "displayName": "Performance testing API",
-      "resolvedPath": "D:\\Unity Projects\\Dissection Simulator\\Library\\PackageCache\\com.unity.test-framework.performance@0840f58e4562",
+      "resolvedPath": "D:\\Unity Projects\\IMR-Project-2025\\Library\\PackageCache\\com.unity.test-framework.performance@0840f58e4562",
       "fingerprint": "0840f58e45624f7677679a0f8b6a5137689e607f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.2.0",

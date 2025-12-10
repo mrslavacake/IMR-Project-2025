@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Organ
   - BezierLink
+  - Tool
+  - Clutter
   layers:
   - Default
   - TransparentFX

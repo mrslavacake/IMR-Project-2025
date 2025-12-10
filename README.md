@@ -34,15 +34,9 @@ Update 3 includes:
 - implemented script for cutting with the scalpel (as seen in one of the demo3 videos)
 - NOT YET FUNCTIONAL forceps grab script
 
-Update 4 includes:
-- more retopology (the app is finally smooth)
-- mesh for 'What's this?'-inator
-- functionality for 'What's this?'-inator (it displays on screen the name of the asset it points as, as seen in demo4)
-- forceps improvement (it's still broken but it doesn't randomly fly off the desk anymore)
-- one of the specimens that will be displayed (an equine skull, more details in the video demos directory)
-
 Next update will (hopefully) include:
+- retopology for current meshes to increase performance (again)
 - actual textures for all organs
-- proper implementation for forceps
-- visible ray for 'What's this?'-inator
+- mesh for 'What's this?'-inator
+- proper implementation for forceps and 'What's this?'-inator
 - more clutter and details in laboratory

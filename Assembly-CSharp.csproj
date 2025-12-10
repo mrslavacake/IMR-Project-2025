@@ -64,8 +64,11 @@
     <Compile Include="Assets\Scripts\ScannerRaycaster.cs" />
     <Compile Include="Assets\Scripts\CameraRelativeMovement.cs" />
     <Compile Include="Assets\Scripts\TrayZone.cs" />
+    <Compile Include="Assets\Scripts\PageManager.cs" />
+    <Compile Include="Assets\Scripts\PageTurnTrigger.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\ScalpelCut.cs" />
+    <Compile Include="Assets\Scripts\InstructionData.cs" />
     <Compile Include="Assets\Scripts\BezierCutter.cs" />
     <Compile Include="Assets\Scripts\ForcepsController.cs" />
   </ItemGroup>
