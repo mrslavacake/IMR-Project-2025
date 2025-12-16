@@ -31,9 +31,6 @@ Update 3 includes:
 - implemented script for cutting with the scalpel (as seen in one of the demo3 videos)
 - NOT YET FUNCTIONAL forceps grab script
 
-<<<<<<< HEAD
-=======
-
 Update 4 includes:
 - more retopology (the app is finally smooth)
 - mesh for 'What's this?'-inator
@@ -51,16 +48,12 @@ Update 5 includes:
   
   <img width="439" height="576" alt="image" src="https://github.com/user-attachments/assets/d0c9b790-c96f-4877-8f0b-20688dc41828" />
 
+Update 6 includes:
+- more tasks implemented in order (in the notebook)
+- me reaching my limit (see video demos)
 
->>>>>>> e0fca8f7d59fba90bfcf0bd6074831fe74a0d16d
 Next update will (hopefully) include:
-- retopology for current meshes to increase performance (again)
 - actual textures for all organs
-<<<<<<< HEAD
-- mesh for 'What's this?'-inator
-- proper implementation for forceps and 'What's this?'-inator
-=======
 - proper implementation for forceps
->>>>>>> e0fca8f7d59fba90bfcf0bd6074831fe74a0d16d
 - more clutter and details in laboratory
 - sound design
