@@ -50,10 +50,12 @@ Update 5 includes:
 
 Update 6 includes:
 - more tasks implemented in order (in the notebook)
-- me reaching my limit (see video demos)
+- me reaching my limit (see 'end my suffering.mp4' in video demos)
+- forceps can now be manually controlled (using A and B to open and close)
+- forceps can now pick up organs (organs now fall through table because their rigidbody doesn't properly work when dropped)
 
 Next update will (hopefully) include:
 - actual textures for all organs
-- proper implementation for forceps
+- fix for rigidbody deactivation for organs
 - more clutter and details in laboratory
 - sound design
