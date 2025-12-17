@@ -991,6 +991,76 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "XRI RightHand Interaction",
+            "id": "a3bd4bf6-7e4c-4879-83de-d392818e18cf",
+            "actions": [
+                {
+                    "name": "OpenForceps",
+                    "type": "Button",
+                    "id": "1056f003-736e-43b0-8fca-167f96640911",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CloseForceps",
+                    "type": "Button",
+                    "id": "c08ef8e6-adba-4ef0-b76e-fccfa1bd0a87",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2a3b50a5-c643-4161-89bd-74d23d331f68",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenForceps",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "694eeaf1-2756-46c1-8afa-e3c62f9569ee",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenForceps",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "32ee0f24-b4fc-4356-afee-bfcde3e816eb",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CloseForceps",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0651ceac-ac7c-4048-9ee2-b52550ea5204",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>{RightHand}/secondarybutton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CloseForceps",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

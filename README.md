@@ -17,6 +17,9 @@ Update 1 includes:
 Update 2 includes:
 - meshes for frog and organs (including heart, lungs, stomach, pancreas, intestines, colon, spleen and gallbladder)
 - thickened bezier curves to simulate connections between organs
+
+<img width="911" height="902" alt="image" src="https://github.com/user-attachments/assets/d854a7ec-5162-4409-94f1-da8fbfe3b762" />
+
 - improved lab space (added blackboard, removed useless dissection tools, added notebook for instructions, added tray to display organs)
 - NOT YET IMPLEMENTED scripts for 'cutting' (using scalpel) and 'grabbing' (using forceps)
 - implemented ability to grab and place organs with 'free hand' (as shown in demo2)
@@ -31,29 +34,9 @@ Update 3 includes:
 - implemented script for cutting with the scalpel (as seen in one of the demo3 videos)
 - NOT YET FUNCTIONAL forceps grab script
 
-Update 4 includes:
-- more retopology (the app is finally smooth)
-- mesh for 'What's this?'-inator
-- functionality for 'What's this?'-inator (it displays on screen the name of the asset it points as, as seen in demo4)
-- forceps improvement (it's still broken but it doesn't randomly fly off the desk anymore)
-- one of the specimens that will be displayed (an equine skull, more details in the video demos directory)
-
-Update 5 includes:
-- visible scanner ray
-- scanned objects are now highlighted
-- environment objects (floor, walls, desks) are no longer scannable
-- notebook now has a turning page animation (as seen in demo5 video)
-- added script for instructions (previous scripts need to be updated for tasks to be registered as completed)
-- tasks can now be manually added in the unity interface
-  
-  <img width="439" height="576" alt="image" src="https://github.com/user-attachments/assets/d0c9b790-c96f-4877-8f0b-20688dc41828" />
-
-Update 6 includes:
-- more tasks implemented in order (in the notebook)
-- me reaching my limit (see video demos)
-
 Next update will (hopefully) include:
+- retopology for current meshes to increase performance (again)
 - actual textures for all organs
-- proper implementation for forceps
+- mesh for 'What's this?'-inator
+- proper implementation for forceps and 'What's this?'-inator
 - more clutter and details in laboratory
-- sound design
