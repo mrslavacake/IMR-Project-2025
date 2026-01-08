@@ -54,8 +54,18 @@ Update 6 includes:
 - forceps can now be manually controlled (using A and B to open and close)
 - forceps can now pick up organs (organs now fall through table because their rigidbody doesn't properly work when dropped)
 
+Update 7 includes:
+- meshes that support progressive cuts in the skin and flap separation (this includes 4 main meshes for the belly and 12 meshes for the skin flaps and their stages)
+- new scripts to manage progressive incisions
+- guidelines for incisions
+- recreated classroom space (colored walls, textured floor, recreated windows, colored blackboard, lab sink, teacher's desk, window blinds, wall clock, etc)
+- fixed lungs mesh (normals were messy for some reason)
+- fixed bezier curves (since they were made before the actual belly, there were clipping issues)
+
+
 Next update will (hopefully) include:
 - actual textures for all organs
 - fix for rigidbody deactivation for organs
 - more clutter and details in laboratory
 - sound design
+
