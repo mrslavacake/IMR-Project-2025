@@ -56,9 +56,17 @@ Update 6 includes:
 
 Update 7 includes:
 - meshes that support progressive cuts in the skin and flap separation (this includes 4 main meshes for the belly and 12 meshes for the skin flaps and their stages)
+
+<img width="810" height="611" alt="image" src="https://github.com/user-attachments/assets/b6d879d2-561f-4686-b426-fbcdfd58c885" />
+
+
 - new scripts to manage progressive incisions
 - guidelines for incisions
 - recreated classroom space (colored walls, textured floor, recreated windows, colored blackboard, lab sink, teacher's desk, window blinds, wall clock, etc)
+
+<img width="1359" height="753" alt="image" src="https://github.com/user-attachments/assets/fc74367b-e438-41e3-9ad2-b28046e1724e" />
+
+
 - fixed lungs mesh (normals were messy for some reason)
 - fixed bezier curves (since they were made before the actual belly, there were clipping issues)
 
