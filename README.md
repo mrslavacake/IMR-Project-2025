@@ -82,7 +82,9 @@ Update 7.2 (work in progress):
 
 
 Next update will (hopefully) include:
+- fixes to improve the incisions aesthetically
+- modified scripts for the guidebook to track user actions
+- tutorial-like text (to clarify controls)
 - actual textures for all organs
-- fix for rigidbody deactivation for organs
 - more clutter and details in laboratory
 - sound design
