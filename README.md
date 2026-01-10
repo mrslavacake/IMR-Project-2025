@@ -54,7 +54,7 @@ Update 6 includes:
 - forceps can now be manually controlled (using A and B to open and close)
 - forceps can now pick up organs (organs now fall through table because their rigidbody doesn't properly work when dropped)
 
-Update 7 includes:
+Update 7.1 includes:
 - meshes that support progressive cuts in the skin and flap separation (this includes 4 main meshes for the belly and 12 meshes for the skin flaps and their stages)
 
 <img width="810" height="611" alt="image" src="https://github.com/user-attachments/assets/b6d879d2-561f-4686-b426-fbcdfd58c885" />
@@ -69,6 +69,15 @@ Update 7 includes:
 
 - fixed lungs mesh (normals were messy for some reason)
 - fixed bezier curves (since they were made before the actual belly, there were clipping issues)
+
+!!! No video yet because I want to fix a few bugs I'm not happy with first !!!
+
+Update 7.2 (work in progress):
+- fixed organs falling through the tray when let go
+- fixed the script for incisions (and now the belly cycles through the cut stages)
+- working on making the skin flaps script work with all of the flaps (for unknown reasons, one of the flaps has a regular mesh filter and mesh renderer, while all the others have only a skinned mesh renderer)
+- working on fixing a bug that causes both the opened and closed meshes to be rendered at the same time
+
 
 
 Next update will (hopefully) include:
