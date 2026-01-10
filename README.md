@@ -70,13 +70,14 @@ Update 7.1 includes:
 - fixed lungs mesh (normals were messy for some reason)
 - fixed bezier curves (since they were made before the actual belly, there were clipping issues)
 
-!!! No video yet because I want to fix a few bugs I'm not happy with first !!!
+!!! No video yet because I want to fix a few bugs I'm not happy with first !!! (now added)
 
 Update 7.2 (work in progress):
 - fixed organs falling through the tray when let go
 - fixed the script for incisions (and now the belly cycles through the cut stages)
-- working on making the skin flaps script work with all of the flaps (for unknown reasons, one of the flaps has a regular mesh filter and mesh renderer, while all the others have only a skinned mesh renderer)
-- working on fixing a bug that causes both the opened and closed meshes to be rendered at the same time
+- working on making the skin flaps script work with all of the flaps (for unknown reasons, one of the flaps has a regular mesh filter and mesh renderer, while all the others have only a skinned mesh renderer) OFFICIALLY FIXED
+- working on fixing a bug that causes both the opened and closed meshes to be rendered at the same time OFFICIALLY FIXED
+- NEW PROBLEM IDENTIFIED: frog mesh and organs will probably need to be replaced with a newer version because the new components don't integrate seamlessly (as seen in the Blender screenshot and the demo video)
 
 
 
