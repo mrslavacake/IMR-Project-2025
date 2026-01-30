@@ -57,20 +57,19 @@ Update 6 includes:
 Update 7.1 includes:
 - meshes that support progressive cuts in the skin and flap separation (this includes 4 main meshes for the belly and 12 meshes for the skin flaps and their stages)
 
-<img width="810" height="611" alt="image" src="https://github.com/user-attachments/assets/b6d879d2-561f-4686-b426-fbcdfd58c885" />
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/b6d879d2-561f-4686-b426-fbcdfd58c885" />
 
 
 - new scripts to manage progressive incisions
 - guidelines for incisions
 - recreated classroom space (colored walls, textured floor, recreated windows, colored blackboard, lab sink, teacher's desk, window blinds, wall clock, etc)
 
-<img width="1359" height="753" alt="image" src="https://github.com/user-attachments/assets/fc74367b-e438-41e3-9ad2-b28046e1724e" />
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/fc74367b-e438-41e3-9ad2-b28046e1724e" />
 
 
 - fixed lungs mesh (normals were messy for some reason)
 - fixed bezier curves (since they were made before the actual belly, there were clipping issues)
 
-!!! No video yet because I want to fix a few bugs I'm not happy with first !!! (now added)
 
 Update 7.2 (work in progress):
 - fixed organs falling through the tray when let go
@@ -79,12 +78,21 @@ Update 7.2 (work in progress):
 - working on fixing a bug that causes both the opened and closed meshes to be rendered at the same time OFFICIALLY FIXED
 - NEW PROBLEM IDENTIFIED: frog mesh and organs will probably need to be replaced with a newer version because the new components don't integrate seamlessly (as seen in the Blender screenshot and the demo video)
 
+Mini-Update
+Abandoned this project for a while to focus on exams but now I'm back!
+For the following few days I plan on delivering a mini-update every day
+
+Update 8.1 (day 1, lots of images, I'm so sorry):
+- new meshes (projector, tablet that will control projector slides and more, projector screen)
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/164e94d7-8e9b-481d-bf2c-59fac41cc5c0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8e7e6564-286e-46a7-81c0-434fd09a908b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/268d3f3d-b471-4a12-92c9-5ca199380bb1" width="30%" />
+</div>
+
+- Lab Rules poster (will be on the wall, to help guide the user without breaking immersion as much as regular controls)
+
+<img width="800" alt="Lab Rules" src="https://github.com/user-attachments/assets/60849137-84d2-4ccb-b717-879acb3bb552" />
 
 
-Next update will (hopefully) include:
-- fixes to improve the incisions aesthetically
-- modified scripts for the guidebook to track user actions
-- tutorial-like text (to clarify controls)
-- actual textures for all organs
-- more clutter and details in laboratory
-- sound design
