@@ -99,8 +99,19 @@ Update 8.1 (day 1, lots of images, I'm so sorry):
 Update 8.2:
 
 - CEILING!!!
-- started work on lighting (spotlights project the light weirdly on the walls, moved to point lights and I'm now trying to remove the intense glow on the ceiling)
+- started work on lighting
+        
+  ```Spotlights project weirdly on the walls. Large inner/outer shape gives good lighting and awful non-existent shadows. Small inner/outer shape gives good shadows and unusable lighting```
+  
+  ```Point lights give an intense glow on the ceiling (but the lighting and shadows are good)```
+  
+  ```Area lights would work better for my type of lamp (lab neons) but they're baked and I'm trying to avoid this```
 
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5833c76-216b-4c2a-945e-829acae1b17b" />
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/cde46395-70cd-4393-8799-b8882edb34f9" width="40%" />
+  <img src="https://github.com/user-attachments/assets/a5833c76-216b-4c2a-945e-829acae1b17b" width="40% "/>
+</div>
+
+
 
 - the projector screen now has a rolling and unrolling animation
