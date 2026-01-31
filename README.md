@@ -96,3 +96,11 @@ Update 8.1 (day 1, lots of images, I'm so sorry):
 <img width="800" alt="Lab Rules" src="https://github.com/user-attachments/assets/60849137-84d2-4ccb-b717-879acb3bb552" />
 
 
+Update 8.2:
+
+- CEILING!!!
+- started work on lighting (spotlights project the light weirdly on the walls, moved to point lights and I'm now trying to remove the intense glow on the ceiling)
+
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5833c76-216b-4c2a-945e-829acae1b17b" />
+
+- the projector screen now has a rolling and unrolling animation
