@@ -113,5 +113,14 @@ Update 8.2:
 </div>
 
 
-
 - the projector screen now has a rolling and unrolling animation
+
+Update 8.3:
+
+- we officially have lighting (yey)
+- now when the scanner is picked up, the projector lowers from the ceiling and the screen rolls down
+- modified scanner text to make it easier to read (the lighting messed with the white text)
+- placed lab rules on the wall
+- started work on organ data that will be projected 
+
+Update 8.4 (ongoing)
