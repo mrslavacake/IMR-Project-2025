@@ -123,4 +123,6 @@ Update 8.3:
 - placed lab rules on the wall
 - started work on organ data that will be projected 
 
-Update 8.4 (ongoing)
+Update 8.4 (ongoing):
+
+- dropped tools now respan on the table (to find them easily and to limit the risk of them randomly falling through the floor/desk)
