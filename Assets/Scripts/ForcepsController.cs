@@ -5,21 +5,21 @@ using UnityEngine.XR.Interaction.Toolkit.Interactables;
 
 public class ForcepsController : MonoBehaviour
 {
-    [Header("Componente Forceps")]
+    [Header("Forceps Components")]
     public Transform leftArm;
     public Transform rightArm;
-    public Transform grabPoint; // Obiectul gol (Empty) unde va face snap organul
+    public Transform grabPoint;
 
-    [Header("Setari Rotatie")]
+    [Header("Rotation Settings")]
     public Vector3 rotationAxis = Vector3.right;
     public float maxOpenAngle = 25f;
     public float rotationSpeed = 100f; 
 
     [Header("Input Control (Button Actions)")]
-    public InputActionProperty openAction;  // Butonul A 
-    public InputActionProperty closeAction; // Butonul B
+    public InputActionProperty openAction;  // Button A 
+    public InputActionProperty closeAction; // Button B
 
-    [Header("Logica Prindere")]
+    [Header("Grab Logic")]
     public string targetTag = "Organ";
     public float grabRadius = 0.02f;
 
@@ -97,6 +97,7 @@ public class ForcepsController : MonoBehaviour
             rb.linearVelocity = Vector3.zero;
             rb.angularVelocity = Vector3.zero;
         }
+        PageManager.Instance.MarkTaskCompleted(TaskType.GrabOrgan, target.name);
     }
 
     private void Release()

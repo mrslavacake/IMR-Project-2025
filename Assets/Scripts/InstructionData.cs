@@ -6,8 +6,11 @@ public enum TaskType
     None,
     GrabScalpel,
     Cut,
+    CutBezier,
+    FlipSkin,
     GrabOrgan,
     PlaceInTray,
+    ScanOrgan,
     RotatePage
 }
 

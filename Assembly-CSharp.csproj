@@ -61,6 +61,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.60f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ScannableObject.cs" />
     <Compile Include="Assets\Scripts\ScannerRaycaster.cs" />
     <Compile Include="Assets\Scripts\CameraRelativeMovement.cs" />
     <Compile Include="Assets\Scripts\IncisionTrigger.cs" />
@@ -68,10 +69,12 @@
     <Compile Include="Assets\Scripts\TrayZone.cs" />
     <Compile Include="Assets\Scripts\PageManager.cs" />
     <Compile Include="Assets\Scripts\PageTurnTrigger.cs" />
+    <Compile Include="Assets\Scripts\OrganInfo.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Scripts\ScalpelCut.cs" />
+    <Compile Include="Assets\Scripts\ProjectorManager.cs" />
     <Compile Include="Assets\Scripts\InstructionData.cs" />
     <Compile Include="Assets\Scripts\InteractablePart.cs" />
+    <Compile Include="Assets\Scripts\ToolReturn.cs" />
     <Compile Include="Assets\Scripts\BezierCutter.cs" />
     <Compile Include="Assets\Scripts\SkinFlap.cs" />
     <Compile Include="Assets\Scripts\ForcepsController.cs" />
@@ -1333,6 +1336,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class PageTurnTrigger : MonoBehaviour
 {
@@ -9,14 +10,14 @@ public class PageTurnTrigger : MonoBehaviour
         if (pageManager == null)
         {
             pageManager = FindFirstObjectByType<PageManager>();
-            //pageManager = FindAnyObjectByType<PageManager>();
         }
     }
 
-    void OnMouseDown() 
+    public void ExecuteAdvancePage()
     {
         if (pageManager != null)
         {
+            Debug.Log("[VR] Attempting to turn page...");
             pageManager.AdvancePage();
         }
     }

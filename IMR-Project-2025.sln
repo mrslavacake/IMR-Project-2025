@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{A18966B8-063A-34D7-27D9-11B08D7F3949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{96AA8695-B1AC-5752-85EA-D2D629317AB1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D00C44ED-CBB9-3C20-F39A-E72B04956AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{96AA8695-B1AC-5752-85EA-D2D629317AB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{E2CEF5C9-E752-ECBF-29D1-AEC7410F1C7C}"
 EndProject
@@ -31,14 +31,14 @@ Global
 		{A18966B8-063A-34D7-27D9-11B08D7F3949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A18966B8-063A-34D7-27D9-11B08D7F3949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A18966B8-063A-34D7-27D9-11B08D7F3949}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D00C44ED-CBB9-3C20-F39A-E72B04956AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D00C44ED-CBB9-3C20-F39A-E72B04956AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00C44ED-CBB9-3C20-F39A-E72B04956AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00C44ED-CBB9-3C20-F39A-E72B04956AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AA8695-B1AC-5752-85EA-D2D629317AB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E2CEF5C9-E752-ECBF-29D1-AEC7410F1C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E2CEF5C9-E752-ECBF-29D1-AEC7410F1C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2CEF5C9-E752-ECBF-29D1-AEC7410F1C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU

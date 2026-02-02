@@ -24,6 +24,7 @@ public class SkinFlap : MonoBehaviour
             {
                 Debug.Log($"[DISSECTION] Trigger pressed while tool is in {gameObject.name}!");
                 manager.FlipFlap(this.gameObject);
+                PageManager.Instance.MarkTaskCompleted(TaskType.FlipSkin, gameObject.name);
                 isToolInside = false;
             }
         }

@@ -20,6 +20,8 @@ public class IncisionTrigger : MonoBehaviour
             hasBeenCut = true;
             manager.OnCutPerformed();
 
+            PageManager.Instance.MarkTaskCompleted(TaskType.Cut, gameObject.name);
+
             // Optional: Add a haptic pulse for VR controllers here
             // or play a cutting sound
         }

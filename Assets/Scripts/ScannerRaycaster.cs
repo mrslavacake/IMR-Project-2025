@@ -26,7 +26,10 @@ public class ScannerRaycaster : MonoBehaviour
     private Dictionary<Renderer, Material> originalMaterials = new Dictionary<Renderer, Material>();
 
     [Header("Filtering")]
-    public string[] scanOnlyTags = { "Organ", "Tool", "BezierLink", "Clutter" }; // Am reintrodus Clutter, dacă e necesar
+    public string[] scanOnlyTags = { "Organ", "Tool", "BezierLink", "Clutter" }; //reintroduced Clutter
+
+    public ProjectorManager projectorManager;
+    private bool firstTimeGrabbed = false;
 
     void Start()
     {
@@ -40,6 +43,11 @@ public class ScannerRaycaster : MonoBehaviour
     {
         isGrabbed = grabbed;
         Debug.Log("Scanner Grab State: " + grabbed);
+        if (grabbed && !firstTimeGrabbed)
+        {
+            firstTimeGrabbed = true;
+            if (projectorManager != null) projectorManager.ActivateProjectorSystem();
+        }
     }
 
     private GameObject GetTargetObject(GameObject hitObject)
@@ -131,6 +139,12 @@ public class ScannerRaycaster : MonoBehaviour
 
                 scannerText.text = targetObject.name;
 
+                ScannableObject scannable = targetObject.GetComponent<ScannableObject>();
+                if (scannable != null && projectorManager != null)
+                {
+                    projectorManager.DisplayOrganDetails(scannable.info);
+                }
+
                 laserLine.SetPosition(0, raycastOrigin.position);
                 laserLine.SetPosition(1, hit.point);
             }
@@ -155,4 +169,5 @@ public class ScannerRaycaster : MonoBehaviour
         laserLine.SetPosition(1, raycastOrigin.position + raycastOrigin.forward * distance);
         scannerText.text = DEFAULT_TEXT;
     }
+
 }

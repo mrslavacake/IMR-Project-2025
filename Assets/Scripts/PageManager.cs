@@ -21,6 +21,14 @@ public class PageManager : MonoBehaviour
     private int currentPageIndex = 0;
     private Page currentPage;
 
+
+    public static PageManager Instance;
+
+    void Awake()
+    {
+        Instance = this;
+    }
+
     void Start()
     {
         if (pages.Length > 0)
@@ -113,8 +121,14 @@ public class PageManager : MonoBehaviour
 
         foreach (var task in currentPage.tasks)
         {
-            string checkmark = task.isCompleted ? "<color=#00FF00>✓</color>" : "<color=#FF0000>☐</color>";
-            sb.AppendLine($"{checkmark} {task.taskDescription}");
+            if (task.isCompleted)
+            {
+                sb.AppendLine($"<color=#00FF00>o</color> <s>{task.taskDescription}</s>");
+            }
+            else
+            {
+                sb.AppendLine($"<color=#ed280e>\u25A1</color> {task.taskDescription}");
+            }
         }
 
         taskListDisplay.text = sb.ToString();
